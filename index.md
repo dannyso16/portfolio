@@ -1,5 +1,7 @@
 # o_dannyの制作物
 
+<br>
+
 # 0. 目次
 
 | **番号** | **タイトル**                                                 |
@@ -15,7 +17,7 @@
 | **9**    | [**その他電子工作**](#9その他電子工作)                     |
 | **10**   | [**その他制作物**]($10その他制作物)                        |
 
-
+<br>
 
 
 # 1.食パンの袋とめるアレ
@@ -23,6 +25,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vUrLMOghyeE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **【種別】**
+
 Androidゲーム
 
 **【概要】**
@@ -30,10 +33,12 @@ Androidゲーム
 2Dアクションシューティングゲームです。これはチームで開発し、私はプログラミングと進行管理をしました。
 
 **【利用技術】**
-****Unity****
+
+Unity
 
 **【制作期間】**
-4か月程度**
+
+4か月程度
 
 **【工夫した点と苦労した点】**
 
@@ -51,11 +56,14 @@ Androidゲーム
 
 **![unity_screenshot2](images/unity_screenshot2.png)**
 
+<br>
+
 # 2.にゃんだーりすと
 
 **![android_todo](images/android_todo.jpg)**
 
 **【種別】**
+
 Android アプリ
 
 **【概要】**
@@ -63,9 +71,11 @@ Android アプリ
 旧Wunderlistを模倣したToDoアプリです。友人と二人で機能を分担して開発しました。
 
 **【利用技術】**
+
 Android, Java, GitHub, SQL
 
 **【制作期間】**
+
 1か月程度（2019年8月～9月）
 
 **【工夫した点と苦労した点】**
@@ -75,13 +85,17 @@ Android, Java, GitHub, SQL
 
 
 **【リンクなど】**
+
 **GitHub: [ToDoAppWithSQLite](https://github.com/dimorportheca47/ToDoAppWithSQLite-master)**
 
-
+<br>
 
 # 3.あかねちゃんタイマー
 
+![windows](images/windows.png)
+
 **【種別】**
+
 Windowsアプリケーション
 
 **【概要】**
@@ -89,9 +103,11 @@ Windowsアプリケーション
 Gitプロジェクトの未commit数の確認と、作業時間の管理ができるアプリ
 
 **【利用技術】**
+
 Java, Swing, PowerShell
 
 **【制作期間】**
+
 二か月程度
 
 **【工夫した点と苦労した点】**
@@ -101,25 +117,29 @@ Java, Swing, PowerShell
 
 
 **【リンクなど】**
+
 **[GitHub リンク](https://github.com/dannyso16/akane-timer)**
 
-**![windows](images/windows.png)**
+<br>
 
 # 4.Dinosour Run
 
 **![pyxel_dino](images/pyxel_dino.gif)**
 
 **【種別】**
+
 PCゲーム
 
 **【概要】**
 
-オフラインの時によく見るランゲーム。オープンソースソフトウェアに貢献してみたい一心で短期間でつくりました。
+オフラインの時によく見るランゲームです。オープンソースソフトウェアに貢献してみたい一心で短期間でつくりました。
 
 **【利用技術】**
+
 Pythonのレトロゲームエンジンpyxel、GitHub
 
 **【制作期間】**
+
 一週間（2019年1月）
 
 **【工夫した点と苦労した点】**
@@ -130,13 +150,14 @@ Pythonのレトロゲームエンジンpyxel、GitHub
 
 **[GitHubリンク](https://github.com/dannyso16/pynasour)**
 
-
+<br>
 
 # 5.プログラミング教室の教材
 
 **![pyxel_hiyoko](images/pyxel_hiyoko.gif)**
 
 **【種別】**
+
 PCゲームとテキスト
 
 **【概要】**
@@ -144,9 +165,11 @@ PCゲームとテキスト
 2019年8月に開催したプログラミング教室の教材です。
 
 **【利用技術】**
+
 Pythonのレトロゲームエンジンpyxel
 
 **【制作期間】**
+
 一か月
 
 **【工夫した点と苦労した点】**
@@ -154,15 +177,17 @@ Pythonのレトロゲームエンジンpyxel
 苦労した点は、プログラミング経験のない大学生が2時間で制作できる教材をつくったことです。プログラミング教室は有料で開催したので、人を集めるためにはお金を払っても良いと思える魅力的なコンテンツが必要でした。そこで私はプログラミングの基本構文でつくれる範囲でできるだけ面白そうなゲームを考えました。そして短い時間で理解できるように教え方を工夫しました。実際の開催までに知り合いに体験してもらい、より初心者が楽しく学べるようにしました。
 
 **【リンクなど】**
-**[GitHubリンクつける]**
 
+[GitHubリンク](https://github.com/dannyso16/Play-IT)
 
+<br>
 
 # 6.ゲーム制作のための実験
 
 **![pseudo3d](images/pseudo3d.gif)**
 
 **【種別】**
+
 プロトタイプ
 
 **【概要】**
@@ -170,9 +195,11 @@ Pythonのレトロゲームエンジンpyxel
 群れアルゴリズム、ジャンプの実装方法の比較、疑似3D、ラスタースクロ―ルなど、ゲーム制作をしている中で気になったトピックを深堀りし、様々なアイデアを試しました。
 
 **【利用技術】**
+
 Python, Java, Javascriptなど
 
 **【制作期間】**
+
 各位一週間から一か月
 
 **【工夫した点と苦労した点】**
@@ -181,43 +208,44 @@ Python, Java, Javascriptなど
 
 **【リンクなど】**
 
+ジャンプアルゴリズムの比較
+
 ![pyxel_jump](images/pyxel_jump.gif)
 
-**比較**
+![pyxel_jump2](images/pyxel_jump2.gif)
 
-**![pyxel_jump2](images/pyxel_jump2.gif)**
 
-**ゆらゆら**
+
+ラスタースクロール
 
 **![pyxel_yurayura](images/pyxel_yurayura.gif)**
 
 
 
-**https://github.com/dannyso16/flocking**
+[Qiita - 群れアルゴリズムBoid](https://github.com/dannyso16/flocking)
 
-**![pyxel_suimi](images/pyxel_suimi.gif)**
+**![pyxel_suimi](images/pyxel_suimi.gif)
 
-**https://qiita.com/odanny/items/e0c0a00e13c2b4839cec**
+![pyxel_slime](images/pyxel_slime.gif)
 
-**![pyxel_slime](images/pyxel_slime.gif)**
+[Qita - ペイントソフトを作って、ついでに手書き数字認識もする](https://qiita.com/odanny/items/eee3d99522bb01fdd111)
 
-**文字認識**
+![pyxel_paint](images/pyxel_paint.gif)
 
-**https://github.com/dannyso16/pyxelDigitRecognition**
+makecode
 
-**https://qiita.com/odanny/items/eee3d99522bb01fdd111**
+<div style="position:relative;height:calc(300px + 5em);width:100%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://arcade.makecode.com/---codeembed#pub:_P3pc7cDoa3w0" allowfullscreen="allowfullscreen" frameborder="0" sandbox="allow-scripts allow-same-origin"></iframe></div>
 
-**![pyxel_paint](images/pyxel_paint.gif)**
+![makecode_1](images/makecode_1.png)
 
-**https://o-danny.itch.io/clickingbuttonsimulator**
-
-**![makecode_1](images/makecode_1.png)**
+<br>
 
 # 7.二足歩行ロボット
 
 **![raspi_robot](images/raspi_robot.gif)**
 
 **【種別】**
+
 電子工作
 
 **【概要】**
@@ -225,9 +253,11 @@ Python, Java, Javascriptなど
 オープンソースプロジェクトOttoを参考に作ったロボットです。サーボモーターを4つ使用し二足歩行やダンス、コントローラーで操作ができます。Gifでは基盤が外に出ていますが、スタンドアローンで動作します。
 
 **【利用技術】**
+
 Arduino
 
 **【制作期間】**
+
 一、二か月
 
 **【工夫した点と苦労した点】**
@@ -238,13 +268,14 @@ Arduino
 
 [otto](https://www.ottodiy.com/)
 
-
+<br>
 
 # 8.ゲームコントローラー
 
 **![arduino_snes](images/arduino_snes.jpeg)**
 
 **【種別】**
+
 電子工作
 
 **【概要】**
@@ -252,9 +283,11 @@ Arduino
 スーパーファミコンや任天堂64のコントローラーをUSB化した
 
 **【利用技術】**
+
 Arduino
 
 **【制作期間】**
+
 一、二か月
 
 **【工夫した点と苦労した点】**
@@ -269,21 +302,26 @@ Arduino
 
 **![arduino_snes_naka](images/arduino_snes_naka.jpeg)**
 
+<br>
+
 # 9.その他電子工作
 
 **![arduino_light](images/arduino_light.gif)**
 
 **【種別】**
+
 プロトタイプ
 
-**【概要】
+**【概要】**
 
 アイデアベースで試作したもの
 
 **【利用技術】**
+
 Arduino, Raspberry pi, Linux
 
 **【制作期間】**
+
 各一週間程度
 
 **【工夫した点と苦労した点】**
@@ -294,11 +332,12 @@ Arduino, Raspberry pi, Linux
 
 NAS(Raspberry pi)
 
-
+<br>
 
 # 10.その他制作物
 
 **【種別】**
+
 イラストなど
 
 **【概要】**
@@ -306,13 +345,12 @@ NAS(Raspberry pi)
 ソフトウェアエンジニアには関係のない制作物
 
 **【制作期間】**
+
 各数日程度
 
 **【工夫した点と苦労した点】**
 
 
-
-**【リンクなど】**
 
 **![wire](images/wire.jpg)**
 
