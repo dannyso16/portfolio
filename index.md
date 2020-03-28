@@ -26,3 +26,5 @@ for _ in range(N):
 - aiueo
 - kakikukeko
   - sasisuseso
+
+![android_todo](images/android_todo.jpg)
