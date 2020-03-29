@@ -50,17 +50,15 @@ Unity
 
 - **[youtube リンク](https://www.youtube.com/watch?v=vUrLMOghyeE)**
 
-**![unity_screenshot1](images/unity_screenshot1.png)**
-
-**![unity_title](images/unity_title.png)**
-
-**![unity_screenshot2](images/unity_screenshot2.png)**
+![unity_screenshot1](images/unity_screenshot1.png)
+![unity_title](images/unity_title.png)
+![unity_screenshot2](images/unity_screenshot2.png)
 
 <br>
 
 # 2.にゃんだーりすと
 
-**![android_todo](images/android_todo.jpg)**
+![android_todo](images/android_todo.jpg)
 
 **【種別】**
 
@@ -86,7 +84,7 @@ Android, Java, GitHub, SQL
 
 **【リンクなど】**
 
-**GitHub: [ToDoAppWithSQLite](https://github.com/dimorportheca47/ToDoAppWithSQLite-master)**
+GitHub: [ToDoAppWithSQLite](https://github.com/dimorportheca47/ToDoAppWithSQLite-master)
 
 <br>
 
@@ -118,13 +116,13 @@ Java, Swing, PowerShell
 
 **【リンクなど】**
 
-**[GitHub リンク](https://github.com/dannyso16/akane-timer)**
+[GitHub リンク](https://github.com/dannyso16/akane-timer)
 
 <br>
 
 # 4.Dinosour Run
 
-**![pyxel_dino](images/pyxel_dino.gif)**
+![pyxel_dino](images/pyxel_dino.gif)
 
 **【種別】**
 
@@ -148,13 +146,13 @@ Pythonのレトロゲームエンジンpyxel、GitHub
 
 **【リンクなど】**
 
-**[GitHubリンク](https://github.com/dannyso16/pynasour)**
+[GitHubリンク](https://github.com/dannyso16/pynasour)
 
 <br>
 
 # 5.プログラミング教室の教材
 
-**![pyxel_hiyoko](images/pyxel_hiyoko.gif)**
+![pyxel_hiyoko](images/pyxel_hiyoko.gif)
 
 **【種別】**
 
@@ -184,7 +182,7 @@ Pythonのレトロゲームエンジンpyxel
 
 # 6.ゲーム制作のための実験
 
-**![pseudo3d](images/pseudo3d.gif)**
+![pseudo3d](images/pseudo3d.gif)
 
 **【種別】**
 
@@ -206,34 +204,27 @@ Python, Java, Javascriptなど
 
 アイデアを試し、発信し、議論したことが工夫であり、苦労した部分です。試した内容はいずれもネットで調べても実装例が少ないものばかりだったので、自分が悩んだ点と解決できなかった点を発信することは他のエンジニアにとって有益でした。特にQiitaに投稿した「[気持ちのいいジャンプを目指して](https://qiita.com/odanny/items/297f32a334c41410cc5d)」は2020年3月現在2万1000 viewsを達成し、様々な方からアイデアや自分の知らなかった知見を教えていただけました。
 
-**【リンクなど】**
+<br>
 
-ジャンプアルゴリズムの比較
-
+**ジャンプアルゴリズムの比較**
 ![pyxel_jump](images/pyxel_jump.gif)
-
 ![pyxel_jump2](images/pyxel_jump2.gif)
 
 
 
-ラスタースクロール
-
-**![pyxel_yurayura](images/pyxel_yurayura.gif)**
+**ラスタースクロール**
+![pyxel_yurayura](images/pyxel_yurayura.gif)
 
 
 
 [Qiita - 群れアルゴリズムBoid](https://github.com/dannyso16/flocking)
-
-**![pyxel_suimi](images/pyxel_suimi.gif)
-
+![pyxel_suimi](images/pyxel_suimi.gif)
 ![pyxel_slime](images/pyxel_slime.gif)
 
 [Qita - ペイントソフトを作って、ついでに手書き数字認識もする](https://qiita.com/odanny/items/eee3d99522bb01fdd111)
-
 ![pyxel_paint](images/pyxel_paint.gif)
 
-makecode
-
+**makecode**：このまま遊べます。
 <div style="position:relative;height:0;padding-bottom:117.6%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://arcade.makecode.com/---run?id=_JY84PAPLvc7v" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
 ![makecode_1](images/makecode_1.png)
@@ -272,7 +263,7 @@ Arduino
 
 # 8.ゲームコントローラー
 
-**![arduino_snes](images/arduino_snes.jpeg)**
+![arduino_snes](images/arduino_snes.jpeg)
 
 **【種別】**
 
@@ -300,13 +291,10 @@ Arduino
 
 中身
 
-**![arduino_snes_naka](images/arduino_snes_naka.jpeg)**
-
+![arduino_snes_naka](images/arduino_snes_naka.jpeg)
 <br>
 
 # 9.その他電子工作
-
-**![arduino_light](images/arduino_light.gif)**
 
 **【種別】**
 
@@ -328,17 +316,21 @@ Arduino, Raspberry pi, Linux
 
 思いついたものを試しました。
 
-**【リンクなど】**
 
-NAS(Raspberry pi)
 
+**触れずにON／OFFできる間接照明**
+![arduino_light](images/arduino_light.gif)
+
+**NASの自作と運用**
+![raspi_nas_box](images/raspi_nas_box.jpg)
 <br>
+
 
 # 10.その他制作物
 
 **【種別】**
 
-イラストなど
+イラストほか
 
 **【概要】**
 
@@ -347,17 +339,16 @@ NAS(Raspberry pi)
 **【制作期間】**
 
 各数日程度
+<br>
 
-**【工夫した点と苦労した点】**
+**ワイヤアート**
+![wire](images/wire.jpg)
+![wire_bike](images/wire_bike.jpg)
 
+**イラスト**
+![illust_mask](images/illust_mask.jpeg)
+![illust_face](images/illust_face.jpeg)
+![illust_dog](images/illust_dog.jpg)
 
-
-**![wire](images/wire.jpg)**
-
-
-
-**![illust_mask](images/illust_mask.jpeg)![illust_face](images/illust_face.jpeg)**
-
-
-
-**![origami](images/origami.jpg)**
+**おりがみ**
+![origami](images/origami.jpg)
