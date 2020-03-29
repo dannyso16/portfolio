@@ -51,7 +51,9 @@ Unity
 - **[youtube リンク](https://www.youtube.com/watch?v=vUrLMOghyeE)**
 
 ![unity_screenshot1](images/unity_screenshot1.png)
+
 ![unity_title](images/unity_title.png)
+
 ![unity_screenshot2](images/unity_screenshot2.png)
 
 <br>
@@ -207,24 +209,31 @@ Python, Java, Javascriptなど
 <br>
 
 **ジャンプアルゴリズムの比較**
+
 ![pyxel_jump](images/pyxel_jump.gif)
+
 ![pyxel_jump2](images/pyxel_jump2.gif)
 
 
 
 **ラスタースクロール**
+
 ![pyxel_yurayura](images/pyxel_yurayura.gif)
 
 
 
-[Qiita - 群れアルゴリズムBoid](https://github.com/dannyso16/flocking)
+**スイミー**　[Qiita - 群れアルゴリズムBoid](https://github.com/dannyso16/flocking)
+
 ![pyxel_suimi](images/pyxel_suimi.gif)
+
 ![pyxel_slime](images/pyxel_slime.gif)
 
-[Qita - ペイントソフトを作って、ついでに手書き数字認識もする](https://qiita.com/odanny/items/eee3d99522bb01fdd111)
+**お絵描き**　[Qita - ペイントソフトを作って、ついでに手書き数字認識もする](https://qiita.com/odanny/items/eee3d99522bb01fdd111)
+
 ![pyxel_paint](images/pyxel_paint.gif)
 
 **makecode**：このまま遊べます。
+
 <div style="position:relative;height:0;padding-bottom:117.6%;overflow:hidden;"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;" src="https://arcade.makecode.com/---run?id=_JY84PAPLvc7v" allowfullscreen="allowfullscreen" sandbox="allow-popups allow-forms allow-scripts allow-same-origin" frameborder="0"></iframe></div>
 
 ![makecode_1](images/makecode_1.png)
@@ -315,13 +324,15 @@ Arduino, Raspberry pi, Linux
 **【工夫した点と苦労した点】**
 
 思いついたものを試しました。
-
+<br>
 
 
 **触れずにON／OFFできる間接照明**
+
 ![arduino_light](images/arduino_light.gif)
 
 **NASの自作と運用**
+
 ![raspi_nas_box](images/raspi_nas_box.jpg)
 <br>
 
@@ -342,13 +353,19 @@ Arduino, Raspberry pi, Linux
 <br>
 
 **ワイヤアート**
+
 ![wire](images/wire.jpg)
+
 ![wire_bike](images/wire_bike.jpg)
 
 **イラスト**
+
 ![illust_mask](images/illust_mask.jpeg)
+
 ![illust_face](images/illust_face.jpeg)
+
 ![illust_dog](images/illust_dog.jpg)
 
 **おりがみ**
+
 ![origami](images/origami.jpg)
