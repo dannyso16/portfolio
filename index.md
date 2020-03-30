@@ -334,6 +334,11 @@ Arduino, Raspberry pi, Linux
 **NASの自作と運用**
 
 ![raspi_nas_box](images/raspi_nas_box.jpg)
+
+**FPGAで太鼓の達人を実装（「紅」の鬼譜面）**
+
+![fpga_taiko](images/fpga_taiko.jpg)
+
 <br>
 
 
