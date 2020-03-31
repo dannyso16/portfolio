@@ -1,1 +1,16 @@
+gems:
+  - jekyll-seo-tag
+  
 theme: jekyll-theme-cayman
+
+title: odanny's Portfolio
+
+description: 制作物まとめです
+
+image: https://github.com/dannyso16/portfolio/blob/master/icon.png
+
+logo: https://github.com/dannyso16/portfolio/blob/master/icon.png
+
+twitter:
+  username: dannyso16
+  card: summary
